@@ -15,6 +15,7 @@ perfectionize, standardize, use as blueprint to teach to children from young age
 * try to bring every paragraph to STAR - Situation Task Action Result / 1 line for each
 * utilize colors from psychology, graphics, html, animations, three.js
 * consider the balance of technical / non technical terms
+* add earth, enviroment, society
 * involve people especially Social Engineers
 
 ## Credits
