@@ -6,7 +6,7 @@ perfectionize, standardize, use as blueprint to teach to children from young age
 
 ## ToDo
 
-* raise paragraph count from 18 to 24 (24 is the number of pure gold among other things)
+* raise paragraph count from 19 to 24 (24 is the number of pure gold among other things)
 * improve the overall story flow of the poem
 * enrich the vocabulary and eliminate duplicates
 * minimize or even eliminate ambiguous terms
