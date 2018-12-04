@@ -1,11 +1,10 @@
 # Role Model Software Engineer
 
 ## Vision
----
+
 perfectionize, standardize and use as blueprint to teach to children from young age in EU schools in order to maximize the number of role model humans as fast as possible
 
 ## TODO
----
 
 * raise paragraph count from 18 to 24 (24 is the number of pure gold among other things)
 * improve the overall story flow of the poem
