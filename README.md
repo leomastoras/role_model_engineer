@@ -19,9 +19,11 @@ perfectionize, standardize and use as blueprint to teach to children from young 
 * involve Social Engineers
 
 ## CREDITS
----
+
 * European Central Bank - DG Human Resources
 * John Lafleur Co-Founder of Anaxi, https://hackernoon.com/how-to-be-a-20x-engineer-instead-of-a-10x-975eedd306b2
+
+---
 
 > Art is never finished, only abandoned...
 > Da Vinci
