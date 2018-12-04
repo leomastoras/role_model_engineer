@@ -4,8 +4,6 @@ Vision
 ---
 perfectionize, standardize and use as blueprint to teach to children from young age in EU schools in order to maximize the number of role model humans as fast as possible
 
-use it for eurhope
-
 TODO
 ---
 
