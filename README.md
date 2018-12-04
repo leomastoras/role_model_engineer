@@ -4,7 +4,7 @@
 
 perfectionize, standardize and use as blueprint to teach to children from young age in EU schools in order to maximize the number of role model humans as fast as possible
 
-## TODO
+## ToDo
 
 * raise paragraph count from 18 to 24 (24 is the number of pure gold among other things)
 * improve the overall story flow of the poem
@@ -18,7 +18,7 @@ perfectionize, standardize and use as blueprint to teach to children from young 
 * consider the balance of technical / non technical terms
 * involve Social Engineers
 
-## CREDITS
+## Credits
 
 * European Central Bank - DG Human Resources
 * John Lafleur Co-Founder of Anaxi, https://hackernoon.com/how-to-be-a-20x-engineer-instead-of-a-10x-975eedd306b2
