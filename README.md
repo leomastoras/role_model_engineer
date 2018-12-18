@@ -29,6 +29,7 @@ perfectionize, standardize, use as blueprint to teach to children from young age
 * raise paragraph total count to 24
   - number of pure gold
   - number of hypercube faces
+  - factorial of 4 and (4 is order)
   - atomic number of Chromium element
   - Hinduism Sharir (Tattvas)
   - Numerology : a number of family, harmony, idealism, and companionship. There's a desire for long-term security.
