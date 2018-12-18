@@ -6,7 +6,6 @@ perfectionize, standardize, use as blueprint to teach to children from young age
 
 ## ToDo
 
-* raise paragraph count from 19 to 24 (24 is the number of pure gold among other things)
 * improve the overall story flow of the poem
 * enrich the vocabulary and eliminate duplicates
 * minimize or even eliminate ambiguous terms
@@ -23,6 +22,11 @@ perfectionize, standardize, use as blueprint to teach to children from young age
 
 * European Central Bank - DG Human Resources
 * John Lafleur Co-Founder of Anaxi, https://hackernoon.com/how-to-be-a-20x-engineer-instead-of-a-10x-975eedd306b2
+* Pouria Kay - Mental Preferences Model - Awareness about thinking diversity
+
+## Done -
+
+* raise paragraph total count to 24 (the number of pure gold among other things)
 
 ---
 
