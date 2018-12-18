@@ -41,4 +41,5 @@ perfectionize, standardize, use as blueprint to teach to children from young age
 ---
 
 > Art is never finished, only abandoned...
+
 > Da Vinci
