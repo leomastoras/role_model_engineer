@@ -24,14 +24,18 @@ perfectionize, standardize, use as blueprint to teach to children from young age
 * John Lafleur Co-Founder of Anaxi, https://hackernoon.com/how-to-be-a-20x-engineer-instead-of-a-10x-975eedd306b2
 * Pouria Kay - Mental Preferences Model - Awareness about thinking diversity
 
-## Done -
+## Done
 
 * raise paragraph total count to 24
-  - number of pure gold
+  - number of carats representing 100% pure gold.
+  - hours in a day
   - number of 2 dimensional tesseract faces
   - factorial of 4 and (4 is order)
+  - number of minor and major keys in western tonal music (4 is a whole note)
+  - number of bits a computer needs to represent TrueColor images
   - atomic number of Chromium element
   - Hinduism Sharir (Tattvas)
+  - the number of ways to order 4 distinct items
   - Numerology : a number of family, harmony, idealism, and companionship. There's a desire for long-term security.
 
 ---
