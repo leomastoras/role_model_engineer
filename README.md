@@ -26,7 +26,12 @@ perfectionize, standardize, use as blueprint to teach to children from young age
 
 ## Done -
 
-* raise paragraph total count to 24 (the number of pure gold among other things)
+* raise paragraph total count to 24
+  - number of pure gold
+  - number of hypercube faces
+  - atomic number of Chromium element
+  - Hinduism Sharir (Tattvas)
+  - Numerology : a number of family, harmony, idealism, and companionship. There's a desire for long-term security.
 
 ---
 
